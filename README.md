@@ -21,11 +21,11 @@
 
 - 🔭 I’m currently working on a new portfolio site...
 
-- 🌱 I’m currently learning JAVA/Kotlin/Dart. 
+- 🌱 I’m currently learning Java/Kotlin/Dart. 
 
 - 👯 I’m looking to collaborate on Mobile App Development. 
 
-- 💬 Talk to me about web-dev and mind blowing sites! 🤯
+- 💬 Talk to me about mob-dev and mind blowing sites! 🤯
   
 - 📫 Contact me via 
 

@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on a new portfolio site...
 
-- 🌱 I’m currently learning Java/Kotlin/Dart. 
+- 🌱 I’m currently learning Java/Kotlin/React/React Native. 
 
 - 👯 I’m looking to collaborate on Mobile App Development. 
 
